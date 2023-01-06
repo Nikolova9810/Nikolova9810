@@ -13,5 +13,5 @@
 ### You can contact me on:
 
 <a href="https://www.linkedin.com/in/reneta-nikolova-4b3b081b9/">
-	<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+	<img align="left" alt="LinkedIn" width="22px" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo-512x500.png.webp" />
 </a>
