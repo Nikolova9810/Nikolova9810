@@ -11,10 +11,12 @@
 - ⚡ Fun fact: I speak 3 languages (Bulgarian, English, German)
 
 ### You can contact me on:
-
 <a href="https://www.linkedin.com/in/reneta-nikolova-4b3b081b9/">
 	<img align="left" alt="LinkedIn" width="22px" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo-512x500.png.webp" />
 </a>
 <a href="https://www.instagram.com/nikolova_r/">
 	<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
+</a>
+<a href="https://www.facebook.com/nikolova98">
+	<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/2048px-Facebook_F_icon.svg.png" />
 </a>
