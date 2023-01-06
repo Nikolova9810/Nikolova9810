@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I speak 3 languages (Bulgarian, English, German)
 
 ### You can contact me on:
-[<img align="left" alt="LinkedLn" width="22px" <a href="https://flatrocktech.com/"> src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"</a> />]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
