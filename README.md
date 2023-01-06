@@ -1,5 +1,5 @@
 ### Hello World, I'm Reneta 👋
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true](https://raw.githubusercontent.com/Nikolova9810/Nikolova9810/main/hello.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Nikolova9810/Nikolova9810/main/hello.gif" width="500" height="320" />
 <!--
 **Nikolova9810/Nikolova9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
