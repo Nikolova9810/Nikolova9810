@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Nikolova9810/Nikolova9810/main/hello.gif" width="500" height="320" />
 
 
-## I'm a currently working as Software Support Technician at FlatRock Tecnology.
+## I'm a currently working as Software Support Technician at <a href="https://flatrocktech.com/">FlatRock Tecnology</a>.
 
 
 - 💻 I completed Java courses at SoftUni
