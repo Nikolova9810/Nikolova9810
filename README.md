@@ -11,5 +11,7 @@
 - ⚡ Fun fact: I speak 3 languages (Bulgarian, English, German)
 
 ### You can contact me on:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<a href="https://www.linkedin.com/in/reneta-nikolova-4b3b081b9/">
+	<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
