@@ -1,7 +1,7 @@
 ### Hello World, I'm Reneta 👋
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Nikolova9810/Nikolova9810/main/hello.gif" width="500" height="320" />
-<!--
-**Nikolova9810/Nikolova9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ## I'm a currently working as Software Support Technician at FlatRock Tecnology.
 
 
