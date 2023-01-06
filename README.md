@@ -30,4 +30,4 @@
 <img align="left" alt="CSS3" width="26px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" />
 <img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" />
-<img align="left" alt="Spring" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgX-vnSkYfrPM3olHVTDBYhdmNYiTrUuYJhIFGkc&s" />
+<img align="left" alt="Spring" width="26px" src="https://www.clipartmax.com/png/middle/30-300342_spring-data-team-spring-framework-icon.png" />
