@@ -12,7 +12,7 @@
 
 ### You can contact me on:
 <a href="https://www.linkedin.com/in/reneta-nikolova-4b3b081b9/">
-	<img align="left" alt="LinkedIn" width="22px" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo-512x500.png.webp" />
+	<img align="left" alt="LinkedIn" width="22px" style="margin:5px" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo-512x500.png.webp" />
 </a>
 <a href="https://www.instagram.com/nikolova_r/">
 	<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
