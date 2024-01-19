@@ -1,4 +1,4 @@
-### Hello World, I'm Reni 👋
+ ### Hello World, I'm Reni 👋
 <img align="right" alt="GIF" src="https://github.com/Nikolova9810/Nikolova9810/blob/main/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" height="300" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" />
 
 
@@ -28,8 +28,11 @@
 <img align="left" alt="Visual Studio Code" width="auto" height="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" alt="IntelliJ" width="auto" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Java" width="auto" height="26px" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg" />
+<img align="left" alt="MySQL" width="auto"  height="26px" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" />
+<img align="left" alt="Spring" width="auto" height="26px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" />
 <img align="left" alt="HTML5" width="auto" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
 <img align="left" alt="CSS3" width="auto" height="26px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" />
 <img align="left" alt="JS" width="auto" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-<img align="left" alt="MySQL" width="auto"  height="26px" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" />
-<img align="left" alt="Spring" width="auto" height="26px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" />
+<img align="left" alt="jQuery" width="auto" height="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" />
+<img align="left" alt="Node JS" width="auto" height="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" />
+<img align="left" alt="Node JS" width="auto" height="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" />
