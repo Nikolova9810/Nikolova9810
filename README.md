@@ -4,7 +4,7 @@
 
 ## I'm a currently working as Software Support Technician at <a href="https://flatrocktech.com/" style="text-decoration: none">FlatRock Tecnology</a>.
 
-<br />
+
 
 
 - 💻 I completed Java courses at SoftUni
