@@ -1,5 +1,5 @@
 ### Hello World, I'm Reni 👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Nikolova9810/Nikolova9810/main/hello.gif" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" />
+<img align="right" alt="GIF" src="https://github.com/Nikolova9810/Nikolova9810/blob/main/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" />
 
 
 ## I'm a currently working as Software Support Technician at <a href="https://flatrocktech.com/">FlatRock Tecnology</a>.
